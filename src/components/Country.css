@@ -1,0 +1,11 @@
+.country {
+    border-radius: 1rem;
+    border: black 1px solid;
+    overflow: hidden;
+}
+
+.country > img {
+    height: 10rem;
+    width: 20rem;
+    object-fit: cover;
+}
